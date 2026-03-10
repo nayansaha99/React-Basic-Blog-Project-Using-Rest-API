@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import { useEffect, useState } from 'react';
 import Layout from '../Layout/layout';
 import Bloglist from '../component/Bloglist';
 import { postLatest } from '../APIRequest/APIRequest';
