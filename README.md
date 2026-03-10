@@ -7,8 +7,6 @@ It integrates with a **REST API** using **Axios** to dynamically fetch and manag
 
 ---
 
----
-
 ## Project Preview
 
 Below are some screenshots demonstrating the blog interface and layout.
