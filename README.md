@@ -1,4 +1,4 @@
-# Blog Frontend
+# React Basic Blog Application
 
 This project is a responsive blog frontend designed to deliver a clean, modern, and user-friendly reading experience.
 The application is built with **React.js** and **Tailwind CSS**, focusing on performance, usability, and responsive design.
